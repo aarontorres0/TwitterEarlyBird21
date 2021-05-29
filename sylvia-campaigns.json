@@ -1,0 +1,403 @@
+[
+    {
+        "id": 1,
+        "hashtags": ["#climatechange", "#savetheplanet", "#environment"],
+        "title": "#ClimateChange Campaign",
+        "text": "This campaign is raising funds and awareness towards the affects of climate change on the planet.",
+        "image": {
+            "name": "./api/tmp/3420d5b7c9d9f71faf34bb1eb86d4196/ice-pic.jpeg",
+            "format": "JPEG",
+            "formatDescription": "Joint Photographic Experts Group JFIF format",
+            "mimeType": "image/jpeg",
+            "class": "DirectClass",
+            "geometry": {
+              "width": 3945,
+              "height": 2219,
+              "x": 0,
+              "y": 0
+            },
+            "resolution": {
+              "x": 72,
+              "y": 72
+            },
+            "printSize": {
+              "x": 54.7917,
+              "y": 30.8194
+            },
+            "units": "PixelsPerInch",
+            "type": "TrueColor",
+            "endianess": "Undefined",
+            "colorspace": "sRGB",
+            "depth": 8,
+            "baseDepth": 8,
+            "channelDepth": {
+              "red": 8,
+              "green": 8,
+              "blue": 8
+            },
+            "pixels": 8753955,
+            "imageStatistics": {
+              "all": {
+                "min": 0,
+                "max": 255,
+                "mean": 155.767,
+                "standardDeviation": 17664.4,
+                "kurtosis": -0.770689,
+                "skewness": -0.866582,
+                "entropy": 0.903437
+              }
+            },
+            "channelStatistics": {
+              "red": {
+                "min": 0,
+                "max": 255,
+                "mean": 138.837,
+                "standardDeviation": 16728.5,
+                "kurtosis": -0.81718,
+                "skewness": -0.787953,
+                "entropy": 0.929509
+              },
+              "green": {
+                "min": 3,
+                "max": 255,
+                "mean": 158.796,
+                "standardDeviation": 17744.9,
+                "kurtosis": -0.666889,
+                "skewness": -0.973737,
+                "entropy": 0.899343
+              },
+              "blue": {
+                "min": 4,
+                "max": 255,
+                "mean": 169.669,
+                "standardDeviation": 18519.6,
+                "kurtosis": -0.570411,
+                "skewness": -1.05604,
+                "entropy": 0.881458
+              }
+            },
+            "renderingIntent": "Perceptual",
+            "gamma": 0.454545,
+            "chromaticity": {
+              "redPrimary": {
+                "x": 0.64,
+                "y": 0.33
+              },
+              "greenPrimary": {
+                "x": 0.3,
+                "y": 0.6
+              },
+              "bluePrimary": {
+                "x": 0.15,
+                "y": 0.06
+              },
+              "whitePrimary": {
+                "x": 0.3127,
+                "y": 0.329
+              }
+            },
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#DFDFDF",
+            "matteColor": "#BDBDBD",
+            "transparentColor": "#000000",
+            "interlace": "JPEG",
+            "intensity": "Undefined",
+            "compose": "Over",
+            "pageGeometry": {
+              "width": 3945,
+              "height": 2219,
+              "x": 0,
+              "y": 0
+            },
+            "dispose": "Undefined",
+            "iterations": 0,
+            "compression": "JPEG",
+            "quality": 73,
+            "orientation": "Undefined",
+            "properties": {
+              "date:create": "2021-05-26T19:29:55+00:00",
+              "date:modify": "2021-05-26T19:29:55+00:00",
+              "icc:copyright": "Copyright (c) 1998 Hewlett-Packard Company",
+              "icc:description": "sRGB IEC61966-2.1",
+              "icc:manufacturer": "IEC http://www.iec.ch",
+              "icc:model": "IEC 61966-2.1 Default RGB colour space - sRGB",
+              "jpeg:colorspace": "2",
+              "jpeg:sampling-factor": "2x2,1x1,1x1",
+              "signature": "e286c432f10cbe2d21c4c54243dcc639fa3a78bd72d6f9c8f5d1c3fa2c9ac6e9"
+            },
+            "profiles": {
+              "icc": {
+                "length": 3144
+              }
+            },
+            "artifacts": {
+              "filename": "./api/tmp/3420d5b7c9d9f71faf34bb1eb86d4196/ice-pic.jpeg"
+            },
+            "tainted": false,
+            "filesize": "0B",
+            "numberPixels": "8.75395M",
+            "pixelsPerSecond": "53.8799MB",
+            "userTime": "0.160u",
+            "elapsedTime": "0:01.162",
+            "version": "ImageMagick 6.9.10-86 Q16 x86_64 2020-01-13 https://imagemagick.org"
+        },
+        "sponsor": {
+            "name": "@Microsoft",
+            "image": {
+                "name": "./api/tmp/bb374a17f027cc2c35d7f9041b6305f5/microsoft-logo.jpeg",
+                "format": "JPEG",
+                "formatDescription": "Joint Photographic Experts Group JFIF format",
+                "mimeType": "image/jpeg",
+                "class": "DirectClass",
+                "geometry": {
+                  "width": 400,
+                  "height": 400,
+                  "x": 0,
+                  "y": 0
+                },
+                "units": "Undefined",
+                "type": "TrueColor",
+                "endianess": "Undefined",
+                "colorspace": "sRGB",
+                "depth": 8,
+                "baseDepth": 8,
+                "channelDepth": {
+                  "red": 8,
+                  "green": 8,
+                  "blue": 8
+                },
+                "pixels": 160000,
+                "imageStatistics": {
+                  "all": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 43.7124,
+                    "standardDeviation": 19607.4,
+                    "kurtosis": 1.13664,
+                    "skewness": 1.63123,
+                    "entropy": 0.326429
+                  }
+                },
+                "channelStatistics": {
+                  "red": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 52.4082,
+                    "standardDeviation": 23347.1,
+                    "kurtosis": 0.326834,
+                    "skewness": 1.43336,
+                    "entropy": 0.341436
+                  },
+                  "green": {
+                    "min": 0,
+                    "max": 190,
+                    "mean": 49.3251,
+                    "standardDeviation": 19224.4,
+                    "kurtosis": -0.825963,
+                    "skewness": 1.00386,
+                    "entropy": 0.314553
+                  },
+                  "blue": {
+                    "min": 0,
+                    "max": 247,
+                    "mean": 29.4038,
+                    "standardDeviation": 16250.9,
+                    "kurtosis": 5.88216,
+                    "skewness": 2.66542,
+                    "entropy": 0.323298
+                  }
+                },
+                "renderingIntent": "Perceptual",
+                "gamma": 0.454545,
+                "chromaticity": {
+                  "redPrimary": {
+                    "x": 0.64,
+                    "y": 0.33
+                  },
+                  "greenPrimary": {
+                    "x": 0.3,
+                    "y": 0.6
+                  },
+                  "bluePrimary": {
+                    "x": 0.15,
+                    "y": 0.06
+                  },
+                  "whitePrimary": {
+                    "x": 0.3127,
+                    "y": 0.329
+                  }
+                },
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#DFDFDF",
+                "matteColor": "#BDBDBD",
+                "transparentColor": "#000000",
+                "interlace": "JPEG",
+                "intensity": "Undefined",
+                "compose": "Over",
+                "pageGeometry": {
+                  "width": 400,
+                  "height": 400,
+                  "x": 0,
+                  "y": 0
+                },
+                "dispose": "Undefined",
+                "iterations": 0,
+                "compression": "JPEG",
+                "quality": 85,
+                "orientation": "Undefined",
+                "properties": {
+                  "date:create": "2021-05-26T19:33:09+00:00",
+                  "date:modify": "2021-05-26T19:33:09+00:00",
+                  "icc:copyright": "No copyright, use freely",
+                  "icc:description": "sRGB built-in",
+                  "jpeg:colorspace": "2",
+                  "jpeg:sampling-factor": "2x2,1x1,1x1",
+                  "signature": "48d7e826d1d834cb21e0948b6f2a4614974efcc3296dd2686598fc8aa8dcb60a"
+                },
+                "profiles": {
+                  "icc": {
+                    "length": 656
+                  }
+                },
+                "artifacts": {
+                  "filename": "./api/tmp/bb374a17f027cc2c35d7f9041b6305f5/microsoft-logo.jpeg"
+                },
+                "tainted": false,
+                "filesize": "0B",
+                "numberPixels": "160000",
+                "pixelsPerSecond": "43.2788MB",
+                "userTime": "0.010u",
+                "elapsedTime": "0:01.003",
+                "version": "ImageMagick 6.9.10-86 Q16 x86_64 2020-01-13 https://imagemagick.org"
+              }
+        },
+        "donation_text": "100% of donations will go to this campaign."
+    },
+    {
+        "id": 2,
+        "hashtags": ["#CovidRelief", "covid19", "coronavirus"],
+        "title": "#CovidRelief Campaign",
+        "text": "This campaign is raising funds and awareness to help reduce the impact of Covid around the globe.",
+        "image": {
+            "name": "./api/tmp/37e5445a62966604213a16a7107a1364/covid-pic.jpeg",
+            "format": "JPEG",
+            "formatDescription": "Joint Photographic Experts Group JFIF format",
+            "mimeType": "image/jpeg",
+            "class": "DirectClass",
+            "geometry": {
+              "width": 600,
+              "height": 360,
+              "x": 0,
+              "y": 0
+            },
+            "units": "Undefined",
+            "type": "TrueColor",
+            "endianess": "Undefined",
+            "colorspace": "sRGB",
+            "depth": 8,
+            "baseDepth": 8,
+            "channelDepth": {
+              "red": 8,
+              "green": 8,
+              "blue": 8
+            },
+            "pixels": 216000,
+            "imageStatistics": {
+              "all": {
+                "min": 0,
+                "max": 255,
+                "mean": 146.627,
+                "standardDeviation": 19464.4,
+                "kurtosis": -1.29257,
+                "skewness": -0.0776956,
+                "entropy": 0.954052
+              }
+            },
+            "channelStatistics": {
+              "red": {
+                "min": 0,
+                "max": 255,
+                "mean": 171.069,
+                "standardDeviation": 16329.8,
+                "kurtosis": -0.987573,
+                "skewness": -0.262787,
+                "entropy": 0.935203
+              },
+              "green": {
+                "min": 0,
+                "max": 255,
+                "mean": 134.896,
+                "standardDeviation": 20977.8,
+                "kurtosis": -1.38564,
+                "skewness": 0.116345,
+                "entropy": 0.964462
+              },
+              "blue": {
+                "min": 0,
+                "max": 255,
+                "mean": 133.916,
+                "standardDeviation": 21085.6,
+                "kurtosis": -1.38246,
+                "skewness": 0.139479,
+                "entropy": 0.96249
+              }
+            },
+            "renderingIntent": "Perceptual",
+            "gamma": 0.454545,
+            "chromaticity": {
+              "redPrimary": {
+                "x": 0.64,
+                "y": 0.33
+              },
+              "greenPrimary": {
+                "x": 0.3,
+                "y": 0.6
+              },
+              "bluePrimary": {
+                "x": 0.15,
+                "y": 0.06
+              },
+              "whitePrimary": {
+                "x": 0.3127,
+                "y": 0.329
+              }
+            },
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#DFDFDF",
+            "matteColor": "#BDBDBD",
+            "transparentColor": "#000000",
+            "interlace": "JPEG",
+            "intensity": "Undefined",
+            "compose": "Over",
+            "pageGeometry": {
+              "width": 600,
+              "height": 360,
+              "x": 0,
+              "y": 0
+            },
+            "dispose": "Undefined",
+            "iterations": 0,
+            "compression": "JPEG",
+            "orientation": "Undefined",
+            "properties": {
+              "date:create": "2021-05-26T19:29:53+00:00",
+              "date:modify": "2021-05-26T19:29:53+00:00",
+              "jpeg:colorspace": "2",
+              "jpeg:sampling-factor": "2x2,1x1,1x1",
+              "signature": "986808ac848aa3f9c946ab6607e5dae7e16335490b632687c1468d20b843635e"
+            },
+            "artifacts": {
+              "filename": "./api/tmp/37e5445a62966604213a16a7107a1364/covid-pic.jpeg"
+            },
+            "tainted": false,
+            "filesize": "0B",
+            "numberPixels": "216000",
+            "pixelsPerSecond": "57.8718MB",
+            "userTime": "0.000u",
+            "elapsedTime": "0:01.003",
+            "version": "ImageMagick 6.9.10-86 Q16 x86_64 2020-01-13 https://imagemagick.org"
+        },
+        "sponsor": null,
+        "donation_text": "100% of donations will go to this campaign."
+    }
+]

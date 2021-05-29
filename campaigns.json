@@ -1,0 +1,65 @@
+[
+	{
+		"hashtags": ["#ForNoAnimalCruelty", "#ForNoAnimalTesting"],
+		"text": "This campaign is raising funds and awareness towards animal abuse.",
+		"image": "./tweet-details-2_files/animal.jpg",
+		"sponsor": "@Starbucks",
+		"sponsorimage": "./tweet-details-2_files/starbucks.jpg",
+		"backgroundcolor": "#b0b0b0",
+		"hashtagcolor": "#544943"
+	},
+	{
+		"hashtags": ["#ForSavingThePlanet", "ForSavingTheEnvironment"],
+		"text": "This campaign is raising funds and awareness towards the effects of climate change on the planet.",
+		"image": "./tweet-details-2_files/ice-pic.jpeg",
+		"sponsor": "@Tesla",
+		"sponsorimage": "./tweet-details-2_files/tesla.png",
+		"backgroundcolor": "#7fa2b5",
+		"hashtagcolor": "#3589b8"
+	},
+	{
+		"hashtags": ["#ForEndingHunger", "#ForZeroHunger"],
+		"text": "Every person should be able to eat at least three times a day. Help us erradicate hunger now!",
+		"image": "./tweet-details-2_files/hunger.jpg",
+		"sponsor": "@McDonalds",
+		"sponsorimage": "./tweet-details-2_files/mcdonalds.png",
+		"backgroundcolor": "#bd865e",
+		"hashtagcolor": "#bf6b2e"
+	},
+	{
+		"hashtags": ["#ForChildEducation"],
+		"text": "Education can change a child's future. We are raising funds to bring education to every world corner.",
+		"image": "./tweet-details-2_files/education.jpg",
+		"sponsor": "@khanacademy",
+		"sponsorimage": "./tweet-details-2_files/khan.jpg",
+		"backgroundcolor": "#a37b50",
+		"hashtagcolor": "#d97e1e"
+	},
+	{
+		"hashtags": ["#ForMentalHealth", "#ForNoSuicides"],
+		"text": "What mental health needs is more sunlight, more candor, and more unashamed conversation. Help us now!",
+		"image": "./tweet-details-2_files/mentalhealth.jpg",
+		"sponsor": "@Twitter",
+		"sponsorimage": "./tweet-details-2_files/twitter.jpg",
+		"backgroundcolor": "#c2a08e",
+		"hashtagcolor": "#eb8752"
+	},
+	{
+		"hashtags": ["#ForGenderEquality"],
+		"text": "No one should be discriminated because of their gender, or have less opportunities than others.",
+		"image": "./tweet-details-2_files/genderequality.png",
+		"sponsor": "@salesforce",
+		"sponsorimage": "./tweet-details-2_files/salesforce.jpg",
+		"backgroundcolor": "#d99ccb",
+		"hashtagcolor": "#d169b9"
+	},
+	{
+		"hashtags": ["#ForCovidRelief", "#ForCovid19Relief", "#ForCoronavirusRelief"],
+		"text": "This campaign is raising funds and awareness to help reduce the impact of Covid around the globe.",
+		"image": "./tweet-details-2_files/covid19.jpg",
+		"sponsor": "@Microsoft",
+		"sponsorimage": "./tweet-details-2_files/microsoft.jpg",
+		"backgroundcolor": "#db696b",
+		"hashtagcolor": "#d92d30"
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+    "id": 123,
+  	"text": "Talking about the things that matter",
+   	"author": "Kody Frakes",
+    "handle": "@kody_k_",
+	"profile_pic": "./tweet-details-2_files/kody.jpg"
+	},
+	{
+    "id": 456,
+  	"text": "Amazing!!",
+    "author": "Diana Vicezar",
+    "handle": "@dianavic_",
+	"profile_pic": "./tweet-details-2_files/diana.jpg"
+	},
+	{
+	"id": 789,
+	"text": "so happy to support this",
+	"author": "Annie Ro",
+	"handle": "@our_amazing_mentor",
+	"profile_pic": "./tweet-details-2_files/annie.jpg"
+	}
+]

@@ -1,0 +1,981 @@
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body {
+  margin: 0;
+}
+
+.campaign-container {
+  background-color: #8fb9d3;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  padding: 15px;
+  font:14px system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+  color: white;
+}
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.blurb-flex-box {
+  display: flex;
+  margin: 0px;
+}
+.blurb-image-container {
+  margin: 5px;
+}
+.blurb-text-container {
+  padding: 5px;
+  padding-top: 14px;
+  font-size: 12px;
+  color: white;
+}
+.logo-image {
+  width: 80;
+  height: auto;
+}
+.main-flex-box {
+  display: flex;
+}
+.flex-1 {
+  padding: 5px;
+  max-width: 60%;
+}
+.flex-2 {
+  padding: 5px;
+}
+.campaign-image-container {
+  margin-top: 5px;
+}
+.campaign-image {
+  opacity: 90%;
+  border-radius: 10px;
+  height: 130px;
+  width: auto;
+}
+.button-styling {
+  background-color: #1DA1F2;
+  border: none;
+  border-radius: 29px;
+  padding: 10px;
+  width: 130px;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.button-container {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.disclaimer-container {
+  margin-top: 15px;
+  margin-left: 10px;
+}
+.disclaimer-text {
+  font-size: 10px;
+}
+.sponsor {
+  margin-top: 18px;
+  text-align: right;
+}
+.sponsor-name {
+  float: right;
+  padding-left: 5px;
+}
+.sponsor-heading {
+  font-weight: bold;
+  font-size: 14px;
+}
+.sponsor-img {
+  border-radius: 20px;
+  height: 20px;
+  width: auto;
+}
+.slogan-box {
+  text-align: right;
+}
+.slogan-text {
+  font-size: 16px;
+  margin-bottom: 0px;
+  margin-top: 25px;
+}
+
+
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button,
+input::-webkit-search-cancel-button,
+input::-webkit-search-decoration,
+input::-webkit-search-results-button,
+input::-webkit-search-results-decoration {
+  display: none;
+}
+[stylesheet-group="0.1"] {
+}
+:focus:not([data-focusvisible-polyfill]) {
+  outline: none;
+}
+[stylesheet-group="1"] {
+}
+.css-1dbjc4n {
+  -ms-flex-align: stretch;
+  -ms-flex-direction: column;
+  -ms-flex-negative: 0;
+  -ms-flex-preferred-size: auto;
+  -webkit-align-items: stretch;
+  -webkit-box-align: stretch;
+  -webkit-box-direction: normal;
+  -webkit-box-orient: vertical;
+  -webkit-flex-basis: auto;
+  -webkit-flex-direction: column;
+  -webkit-flex-shrink: 0;
+  align-items: stretch;
+  border: 0 solid black;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-basis: auto;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  min-height: 0px;
+  min-width: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  position: relative;
+  z-index: 0;
+}
+.css-901oao {
+  border: 0 solid black;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 1);
+  display: inline;
+  font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", sans-serif;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+
+}
+.css-bfa6kz {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.css-16my406 {
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  font-family: inherit;
+  white-space: inherit;
+}
+.css-18t94o4 {
+  cursor: pointer;
+}
+.css-4rbku5 {
+  color: inherit;
+  font: inherit;
+  list-style: outside none none;
+  text-align: inherit;
+}
+.css-901oao {
+  border: 0px solid black;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  display: inline;
+  font: 14px system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.css-9pa8cd {
+  inset: 0px;
+  height: 100%;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+[stylesheet-group="2"] {
+}
+.r-13awgt0 {
+  -ms-flex-negative: 1;
+  -ms-flex-positive: 1;
+  -ms-flex-preferred-size: 0%;
+  -webkit-box-flex: 1;
+  -webkit-flex-basis: 0%;
+  -webkit-flex-grow: 1;
+  -webkit-flex-shrink: 1;
+  flex-basis: 0%;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.r-4qtqp9 {
+  display: inline-block;
+}
+.r-ywje51 {
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+.r-hvic4v {
+  display: none;
+}
+.r-1adg3ll {
+  display: block;
+}
+[stylesheet-group="2.2"] {
+}
+
+.r-12vffkv > * {
+  pointer-events: auto;
+}
+.r-12vffkv {
+  pointer-events: none !important;
+}
+.r-14lw9ot {
+  background-color: rgba(255, 255, 255, 1);
+}
+.r-1p0dtai {
+  bottom: 0px;
+}
+.r-1d2f490 {
+  left: 0px;
+}
+.r-1xcajam {
+  position: fixed;
+}
+.r-zchlnj {
+  right: 0px;
+}
+.r-ipm5af {
+  top: 0px;
+}
+.r-yyyyoo {
+  fill: currentcolor;
+}
+.r-1xvli5t {
+  height: 1.25em;
+}
+.r-dnmrzs {
+  max-width: 100%;
+}
+.r-bnwqim {
+  position: relative;
+}
+.r-1plcrui {
+  vertical-align: text-bottom;
+}
+.r-lrvibr {
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+.r-13gxpu9 {
+  color: rgba(29, 161, 242, 1);
+}
+.r-wy61xf {
+  height: 72px;
+}
+.r-u8s1d {
+  position: absolute;
+}
+.r-1blnp2b {
+  width: 72px;
+}
+.r-1ykxob0 {
+  top: 60%;
+}
+.r-1b2b6em {
+  line-height: 2em;
+}
+.r-q4m81j {
+  text-align: center;
+}
+.r-16y2uox {
+  -moz-box-flex: 1;
+  flex-grow: 1;
+}
+.r-1g40b8q {
+  z-index: 3;
+}
+.r-f9dfq4 {
+  width: 88px;
+}
+.r-1pi2tsx {
+  height: 100%;
+}
+.r-aqfbo4 {
+  backface-visibility: hidden;
+}
+.r-1rnoaur {
+  overflow-y: auto;
+}
+.r-1wtj0ep {
+  -moz-box-pack: justify;
+  justify-content: space-between;
+}
+.r-d9fdf6 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.r-1awozwy {
+  -moz-box-align: center;
+  align-items: center;
+}
+.r-1vvnge1 {
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+.r-18qmn74 {
+  min-width: 30px;
+}
+.r-1loqt21 {
+  cursor: pointer;
+}
+.r-1pz39u2 {
+  align-self: stretch;
+}
+.r-1777fci {
+  -moz-box-pack: center;
+  justify-content: center;
+}
+.r-6koalj {
+  display: flex;
+}
+.r-mtrfb5 {
+  min-width: 49px;
+}
+.r-1jayybb {
+  min-height: 49px;
+}
+.r-1niwhzg {
+  background-color: rgba(0, 0, 0, 0);
+}
+.r-1w2pmg {
+  height: 0px;
+}
+.r-mk0yit {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.r-42olwf {
+  border-color: rgba(0, 0, 0, 0);
+}
+.r-rs99b7 {
+  border-width: 1px;
+}
+.r-1phboty {
+  border-style: solid;
+}
+.r-sdzlij {
+  border-radius: 9999px;
+  border-width: 0px;
+}
+.r-eljoum {
+  line-height: 1;
+}
+.r-1qd0xha {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", sans-serif;
+}
+.r-qvutc0 {
+  overflow-wrap: break-word;
+}
+.r-bcqeeo {
+  min-width: 0px;
+}
+.r-18u37iz {
+  -moz-box-direction: normal;
+  -moz-box-orient: horizontal;
+  flex-direction: row;
+}
+.r-8kz0gk {
+  height: 2rem;
+}
+.r-1q142lx {
+  flex-shrink: 0;
+}
+.r-ad9z0x {
+  line-height: 1.3125;
+}
+.r-1bymd8e {
+  margin-top: 2px;
+}
+.r-d0pm55 {
+  margin-bottom: 5px;
+}
+.r-13qz1uu {
+  width: 100%;
+}
+.r-eqz5dr {
+  -moz-box-direction: normal;
+  -moz-box-orient: vertical;
+  flex-direction: column;
+}
+.r-1ny4l3l {
+  outline-style: none;
+}
+.r-1habvwh {
+  -moz-box-align: start;
+  align-items: flex-start;
+}
+.r-oyd9sg {
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+.r-1sp51qo {
+  padding: 10px;
+}
+.r-hkyrab {
+  color: rgb(20, 23, 26);
+}
+.r-lwhw9o {
+  height: 1.75rem;
+}
+.r-16xksha {
+  -moz-box-flex: 2;
+  flex-grow: 2;
+}
+.r-33ulu8 {
+  width: 600px;
+}
+.r-150rngu {
+}
+.r-1oszu61 {
+  -moz-box-align: stretch;
+  align-items: stretch;
+}
+.r-2llsf {
+  min-height: 100%;
+}
+.r-1ye8kvj {
+  max-width: 600px;
+}
+.r-61z16t {
+  margin-right: 0px;
+}
+.r-11wrixw {
+  margin-left: 0px;
+}
+.r-1ljd8xs {
+  border-left-width: 1px;
+}
+.r-184en5c {
+  z-index: 1;
+}
+.r-1jgb5lz {
+  margin-left: auto;
+  margin-right: auto;
+}
+.r-1tlfku8 {
+  border-color: rgb(230, 236, 240);
+}
+.r-gtdqiz {
+  position: sticky;
+}
+.r-qklmqi {
+  border-bottom-width: 1px;
+}
+.r-rull8r {
+  border-bottom-style: solid;
+}
+.r-my5ep6 {
+  border-bottom-color: rgb(230, 236, 240);
+}
+.r-136ojw6 {
+  z-index: 2;
+}
+.r-1h3ijdo {
+  height: 53px;
+}
+.r-1j3t67a {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.r-1mf7evn {
+  margin-right: 20px;
+}
+.r-1vsu8ta {
+  min-height: 30px;
+}
+.r-53xb7h {
+  min-width: 39px;
+}
+.r-1vuscfd {
+  min-height: 39px;
+}
+.r-6416eg {
+  transition-property: background-color, box-shadow;
+}
+.r-o7ynqc {
+  transition-duration: 0.2s;
+}
+.r-50lct3 {
+  height: 1.5em;
+}
+.r-sb58tz {
+  max-width: 1000px;
+}
+.r-1vr29t4 {
+  font-weight: 800;
+}
+.r-1b6yd1w {
+  font-size: 19px;
+}
+.r-13l2t4g {
+  border-right-width: 1px;
+}
+.r-rthrr5 {
+  width: 990px;
+}
+.r-obd0qt {
+  -moz-box-align: end;
+  align-items: flex-end;
+}
+.r-thb0q2 {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+.r-m611by {
+  padding-top: 10px;
+}
+.r-1iusvr4 {
+  flex-basis: 0px;
+}
+.r-5f2r5o {
+  margin-left: 7px;
+  margin-right: 7px;
+}
+.r-18kxxzh {
+  -moz-box-flex: 0;
+  flex-grow: 0;
+}
+.r-1wbh5a2 {
+  flex-shrink: 1;
+}
+.r-ahm1il {
+  height: 49px;
+}
+.r-1udh08x {
+  overflow: hidden;
+}
+.r-4gszlv {
+  background-size: cover;
+}
+.r-u6sd8q {
+  background-repeat: no-repeat;
+}
+.r-vvn4in {
+  background-position: center center;
+}
+.r-1wyyakw {
+  z-index: -1;
+}
+.r-zl2h9q {
+  margin-bottom: 2px;
+}
+.r-3s2u2q {
+  white-space: nowrap;
+}
+.r-1re7ezh {
+  color: rgb(101, 119, 134);
+}
+.r-16dba41 {
+  font-weight: 400;
+}
+.r-vw2c0b {
+  font-weight: bold;
+}
+.r-a023e6 {
+  font-size: 15px;
+}
+.plain-text {
+  text-decoration: none;
+}
+.r-156q2ks {
+  margin-top: 10px;
+}
+.r-1n1174f {
+  color: rgb(27, 149, 224);
+}
+.green-tweet {
+  color: rgb(8, 166, 95);
+}
+element {
+  background-image: url("https://abs-0.twimg.com/emoji/v2/svg/1f64f.svg");
+}
+.r-x3cy2q {
+  background-size: 100% 100%;
+}
+.r-h9hxbl {
+  width: 1.2em;
+}
+.r-zw8f10 {
+  margin-right: 0.075em;
+}
+.r-sjv1od {
+  margin-left: 0.075em;
+}
+.r-ip8ujx {
+  height: 1em;
+}
+.r-bnwqim {
+  position: relative;
+}
+.r-4qtqp9 {
+  display: inline-block;
+}
+.r-1mlwlqe {
+  flex-basis: auto;
+}
+.r-417010 {
+  z-index: 0;
+}
+.r-u8s1d {
+  position: absolute;
+}
+.r-1d2f490 {
+  left: 0px;
+}
+.r-dap0kf {
+  min-height: 59px;
+}
+.r-t23y2h {
+  border-radius: 14px;
+}
+.r-9x6qib {
+  border-color: rgb(204, 214, 221);
+}
+.r-15d164r {
+  margin-bottom: 10px;
+}
+.r-vlx1xi {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.r-z80fyv {
+  height: 20px;
+}
+.r-19wmn03 {
+  width: 20px;
+}
+.r-7o8qx1 {
+  margin-right: 5px;
+}
+.r-1g94qm0 {
+  margin-top: 5px;
+}
+.r-1f6r7vd {
+  margin-left: 5px;
+}
+.r-vpgt9t {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+.r-ou255f {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.r-5kkj8d {
+  border-top-width: 1px;
+}
+.r-1efd50x {
+  border-top-style: solid;
+}
+.r-1gkumvb {
+  border-top-color: rgb(230, 236, 240);
+}
+.r-1h2hfjv {
+  margin-top: calc(-5px);
+}
+.r-1w6e6rj {
+  flex-wrap: wrap;
+}
+.r-9qu9m4 {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+.r-3qxfft {
+  min-height: 1.875rem;
+}
+.r-1h0z5md {
+  -moz-box-pack: start;
+  justify-content: flex-start;
+}
+.r-rjfia {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.r-h4g966 {
+  padding-left: 0.85rem;
+  padding-right: 0.85rem;
+}
+.square-50 {
+  max-height: 50px;
+  max-width: 50px;
+}
+.r-1n0xq6e {
+  margin-left: 10px;
+}
+.r-1x0uki6 {
+  margin-top: 20px;
+}
+.r-eu2yb4 {
+  width: 39px;
+}
+.r-j66t93 {
+  height: 39px;
+}
+.r-1mi75qu {
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 0px 2px inset;
+}
+.r-1twgtwe {
+  border-color: rgba(0, 0, 0, 0.04);
+}
+.r-1w50u8q {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.r-e84r5y {
+  background-color: rgb(230, 236, 240);
+}
+.r-o7ynqc {
+  transition-duration: 0.2s;
+}
+.r-1loqt21 {
+  cursor: pointer;
+}
+.r-bcqeeo {
+  min-width: 0px;
+}
+.r-1wbh5a2 {
+  flex-shrink: 1;
+}
+.padding-2 {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.r-atwnbb {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.r-sdzlij {
+  border-radius: 9999px;
+}
+.r-199wky7 {
+  width: 30px;
+}
+.r-1g7fiml {
+  height: 30px;
+}
+.r-sdzlij {
+  border-radius: 9999px;
+}
+.r-1pi2tsx {
+  height: 100%;
+}
+.r-u8s1d {
+  position: absolute;
+}
+.r-ipm5af {
+  top: 0px;
+}
+.r-1d2f490 {
+  left: 0px;
+}
+.r-u8s1d {
+  position: absolute;
+}
+.r-ipm5af {
+  top: 0px;
+}
+.r-1d2f490 {
+  left: 0px;
+}
+.r-sdzlij {
+  border-radius: 9999px;
+}
+.r-4gszlv {
+  background-size: cover;
+}
+.r-u6sd8q {
+  background-repeat: no-repeat;
+}
+.r-vvn4in {
+  background-position: center center;
+}
+.r-1wyyakw {
+  z-index: -1;
+}
+.r-1pi2tsx {
+  height: 100%;
+}
+.r-u8s1d {
+  position: absolute;
+}
+.r-ipm5af {
+  top: 0px;
+}
+.r-1d2f490 {
+  left: 0px;
+}
+.r-qklmqi {
+  border-bottom-width: 1px;
+}
+.r-my5ep6 {
+  border-bottom-color: rgb(230, 236, 240);
+}
+.r-thb0q2 {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+.r-m611by {
+  padding-top: 10px;
+}
+.r-1iusvr4 {
+  flex-basis: 0px;
+}
+.r-5f2r5o {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.r-thb0q2 {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+.r-wwvuq4 {
+  padding: 0px;
+}
+.r-4iw3lz {
+  border-width: 0px;
+}
+.r-14qjzug {
+  max-width: 250px;
+}
+.r-5f2r5o {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.r-1wbh5a2 {
+  flex-shrink: 1;
+}
+.r-1mi0q7o {
+  padding-bottom: 10px;
+}
+.r-1joea0r {
+  margin-left: 20px;
+}
+.r-lrvibr {
+  user-select: none;
+}
+.r-bztko3 {
+  overflow: visible;
+}
+.r-podbf7 {
+  margin: -6px;
+}
+.r-xoduu5 {
+  display: inline-flex;
+}
+.r-1mdbhws {
+  max-width: 425px;
+}
+.r-daml9f {
+  color: rgb(224, 36, 94);
+}
+.r-1qxgc49 {
+  padding-top: 15px;
+}
+.r-92ng3h {
+  width: 1px;
+}
+.r-109y4c4 {
+  height: 1px;
+}
+.height-35 {
+  height: 35px;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #3498db;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover,
+.dropbtn:focus {
+  background-color: #2980b9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {
+  display: block;
+}
